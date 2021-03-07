@@ -1,8 +1,8 @@
 {
   "tv-card": {
     "updated_at": "2021-03-07",
-    "version": "0.0.10",
-    "remote_location": "https://github.com/fstani/tv-card/releases/download/v0.0.10/tv-card.js",
+    "version": "0.1.4",
+    "remote_location": "https://github.com/fstani/tv-card/releases/download/0.1.4/tv-card.js",
     "visit_repo": "https://github.com/fstani/tv-card/",
     "changelog": "https://github.com/fstani/tv-card/releases/latest"
   }
