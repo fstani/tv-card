@@ -53,6 +53,9 @@ https://twitter.com/_developit/status/1090364879377260544
 | volume_up | `service` | **Optional**| service to call when volume up button pressed
 | volume_down | `service` | **Optional**| service to call when volume down button pressed
 | volume_mute | `service` | **Optional**| service to call when volume mute button pressed
+| netflix | `service` | **Optional**| service to call when netflix button pressed
+| prime_video | `service` | **Optional**| service to call when prime video button pressed
+| youtube | `service` | **Optional**| service to call when youtube button pressed
 
 ## `service` Options
 | Name | Type | Requirement | Description
